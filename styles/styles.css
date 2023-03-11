@@ -24,7 +24,7 @@ h2 {
   font-family: var(--heading-font-family);
 }
 
-h4 {
+h3 {
   font-size: 48px;
   font-family: var(--heading-font-family);
 }
@@ -166,16 +166,13 @@ footer.e-mail-link:hover {
   h2 {
     font-size: 44px;
   }
-  h4 {
+  h3 {
     font-size: 26px;
   }
 
   .content {
     text-align: center;
     padding: 0;
-  }
-  .hero {
-    padding: 80px 20px;
   }
   .project-description {
     padding: 0;
